@@ -170,7 +170,7 @@
                                 </subviews>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gn5-a2-tmd">
-                                <rect key="frame" x="16" y="708" width="361" height="51"/>
+                                <rect key="frame" x="16" y="727" width="361" height="51"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="51" id="S8J-h7-UqV"/>
@@ -190,7 +190,7 @@
                         <constraints>
                             <constraint firstItem="fiN-Ze-LGt" firstAttribute="centerX" secondItem="m3o-D7-5JA" secondAttribute="centerX" id="1IO-7u-gIx"/>
                             <constraint firstItem="ibp-Re-plb" firstAttribute="trailing" secondItem="m3o-D7-5JA" secondAttribute="trailing" id="ESz-aR-9hV"/>
-                            <constraint firstItem="gn5-a2-tmd" firstAttribute="bottom" secondItem="zLc-L4-6TW" secondAttribute="bottom" constant="-34" id="Jtk-Jg-aVT"/>
+                            <constraint firstItem="gn5-a2-tmd" firstAttribute="bottom" secondItem="zLc-L4-6TW" secondAttribute="bottom" constant="-15" id="Jtk-Jg-aVT"/>
                             <constraint firstItem="ibp-Re-plb" firstAttribute="bottom" secondItem="m3o-D7-5JA" secondAttribute="bottom" id="SHg-FK-zaZ"/>
                             <constraint firstItem="fiN-Ze-LGt" firstAttribute="centerY" secondItem="m3o-D7-5JA" secondAttribute="centerY" id="SZ3-MS-yz0"/>
                             <constraint firstItem="ibp-Re-plb" firstAttribute="top" secondItem="m3o-D7-5JA" secondAttribute="top" id="f9f-fb-J71"/>
